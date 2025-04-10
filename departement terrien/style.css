@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'delicate';
+	src: url('font/Switzerland.ttf') format('truetype');
+}
+
+h1 {
+	font-family: 'delicate';
+}
